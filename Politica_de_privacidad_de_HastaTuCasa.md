@@ -14,7 +14,7 @@ Recopilo las siguientes categorías de información directamente de ti o de form
 
 ### 2.1 Identidad e información de contacto
 
-- Número de teléfono, recopilado y verificado a través de Firebase Phone Authentication cuando creas una cuenta.
+- Número de teléfono, recopilado y verificado a través de Firebase Phone Authentication cuando creas una cuenta, y usado para contactarte por WhatsApp en caso de requerir soporte técnico o atención al cliente.
 - Tu nombre, que proporcionas durante la configuración de la cuenta.
 - Correo electrónico, si decides proporcionarlo (opcional, reservado para funciones futuras de la cuenta).
 
@@ -54,6 +54,7 @@ Uso la información descrita anteriormente para:
 - Mantener el historial de pedidos para tu referencia.
 - Administrar ofertas promocionales, como la elegibilidad para domicilios gratis.
 - Mantener la seguridad y el correcto funcionamiento de la App.
+- Contactarte a través de WhatsApp al número de teléfono registrado para brindarte soporte técnico y atención al cliente relacionados con tus pedidos o el uso de la App.
 
 ## 4. Cómo comparto tu información
 
